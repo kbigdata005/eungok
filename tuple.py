@@ -40,4 +40,4 @@ print(t4)
 
 print(tuple([1,2,3]))
 
-print(type(range(10)))
+print(range(10))
